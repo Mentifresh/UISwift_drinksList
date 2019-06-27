@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1001,
+    "name": "Espresso",
+    "description": "Espresso is coffee of Italian origin, brewed by expressing or forcing a small amount of nearly boiling water under pressure through finely ground coffee beans. Espresso is generally thicker than coffee brewed by other methods, has a higher concentration of suspended and dissolved solids, and has crema on top (a foam with a creamy consistency).[1] As a result of the pressurized brewing process, the flavors and chemicals in a typical cup of espresso are very concentrated. Espresso is also the base for other drinks such as a caffè latte, cappuccino, caffè macchiato, caffè mocha, flat white, or caffè Americano. Espresso has more caffeine per unit volume than most coffee beverages, but because the usual serving size is much smaller, the total caffeine content is less than a mug of standard brewed coffee, contrary to a common belief.[2] Although the actual caffeine content of any coffee drink varies by size, bean origin, roast method and other factors, a typical serving of espresso contains 120 to 170 milligrams of caffeine whereas a typical serving of drip coffee contains 150 to 200mg.",
+    "imageUrl": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+    "imageName": "espresso",
+    "category": "hot"
+  },
+  {
+    "id": 1002,
+    "name": "Cappuccino",
+    "description": "A cappuccino is an espresso-based coffee drink that originated in Italy, and is traditionally prepared with steamed milk foam (microfoam). Variations of the drink involve the use of cream instead of milk, and flavoring with cinnamon or chocolate powder.[1][2] It is typically smaller in volume than a caffè latte, with a thicker layer of microfoam. The name comes from the Capuchin friars, referring to the colour of their habits,[3] and in this context referring to the colour of the beverage when milk is added in small portion to dark, brewed coffee (today mostly espresso). The physical appearance of a modern cappuccino with espresso créma and steamed milk is a result of a long evolution of the drink. The Viennese bestowed the name 'Kapuziner', possibly in the 18th century, on a version that included whipped cream and spices of unknown origin. The Italian cappuccino was unknown outside Italy until the 1930s, and seems to be born out of Viennese-style cafés in Trieste and other cities in the former Austria in the first decades of the 20th century. The drink has since spread worldwide and can be found at a number of establishments.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Cappuccino_Chiang_Mai.JPG/440px-Cappuccino_Chiang_Mai.JPG",
+    "imageName": "capuccino",
+    "category": "hot"
+  },
+  {
+    "id": 1003,
+    "name": "Iced Tea",
+    "description": "Iced tea  is a form of cold tea. Though usually served in a glass with ice, it can refer to any tea that has been chilled or cooled. It may be sweetened with sugar, syrup and/or apple slices. Iced tea is also a popular packaged drink. It can be mixed with flavored syrup, with multiple common flavors including lemon, raspberry, lime, passion fruit, peach, orange, strawberry, and cherry. While most iced teas get their flavor from tea leaves (Camellia sinensis), herbal teas are sometimes served cold and referred to as iced tea. Iced tea is sometimes made by a particularly long steeping of tea leaves at lower temperature (one hour in the sun versus 5 minutes at 180–212 °F/80–100 °C). This is known as sun tea.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Iced_Tea_from_flickr.jpg/340px-Iced_Tea_from_flickr.jpg",
+    "imageName": "icedTea",
+    "category": "cold"
+  },
+  {
+    "id": 1004,
+    "name": "Iced Coffee",
+    "description": "Iced coffee is a type of coffee beverage served chilled, brewed variously with the fundamental division being cold brew – brewing the coffee cold, yielding a different flavour, and not requiring cooling – or brewing normally (hot) and then cooling, generally by simply pouring over ice or into ice cold milk. In hot brewing, sweeteners and flavourings are often mixed into the hot coffee before cooling, due to faster dissolution in hot water. Alternatively, syrup (sugar pre-dissolved in water) may be used, particularly gum syrup. Pre-packaged iced coffee is available as a grocery item in several countries, though without ice. Iced coffee is also regularly available in most coffee shops. Regardless of brewing method, iced coffee is generally brewed at a higher strength than normal coffee, due to the dilution caused by the ice.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Blue_Bottle%2C_Kyoto_Style_Ice_Coffee_%285909775445%29.jpg/440px-Blue_Bottle%2C_Kyoto_Style_Ice_Coffee_%285909775445%29.jpg",
+    "imageName": "icedCoffee",
+    "category": "cold"
+  }
+]
